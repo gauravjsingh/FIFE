@@ -1,0 +1,5 @@
+*.[oa]
+.*.swp
+a.out
+tmp*
+tests
